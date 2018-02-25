@@ -1,0 +1,14 @@
+C:\Users\DSU\Desktop\Programs\C#\RedditGame\RedditGame\obj\Debug\RedditGame.csprojResolveAssemblyReference.cache
+C:\Users\DSU\Desktop\Programs\C#\RedditGame\RedditGame\obj\Debug\RedditGame.RedditDriver.resources
+C:\Users\DSU\Desktop\Programs\C#\RedditGame\RedditGame\obj\Debug\RedditGame.Properties.Resources.resources
+C:\Users\DSU\Desktop\Programs\C#\RedditGame\RedditGame\obj\Debug\RedditGame.csproj.GenerateResource.Cache
+C:\Users\DSU\Desktop\Programs\C#\RedditGame\RedditGame\obj\Debug\RedditGame.csproj.CoreCompileInputs.cache
+C:\Users\DSU\Desktop\Programs\C#\RedditGame\RedditGame\bin\Debug\RedditGame.exe.config
+C:\Users\DSU\Desktop\Programs\C#\RedditGame\RedditGame\bin\Debug\RedditGame.exe
+C:\Users\DSU\Desktop\Programs\C#\RedditGame\RedditGame\bin\Debug\RedditGame.pdb
+C:\Users\DSU\Desktop\Programs\C#\RedditGame\RedditGame\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DSU\Desktop\Programs\C#\RedditGame\RedditGame\bin\Debug\RedditSharp.dll
+C:\Users\DSU\Desktop\Programs\C#\RedditGame\RedditGame\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DSU\Desktop\Programs\C#\RedditGame\RedditGame\bin\Debug\RedditSharp.xml
+C:\Users\DSU\Desktop\Programs\C#\RedditGame\RedditGame\obj\Debug\RedditGame.exe
+C:\Users\DSU\Desktop\Programs\C#\RedditGame\RedditGame\obj\Debug\RedditGame.pdb
